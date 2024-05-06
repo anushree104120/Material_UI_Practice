@@ -56,7 +56,7 @@ export const Test = () => {
                     marginTop:3,
                     borderRadius:3
                 }} onClick={resetState}  
-                > Change to {isSignup ? "Login" :"Sign up"} Hello from Anu</Button>
+                > Change to {isSignup ? "Login" :"Sign up"} Hello from Anu Shree</Button>
             </Box>
         </form>
     </div>
